@@ -1,0 +1,19 @@
+{
+  "name": "sfnttool",
+  "version": "1.0.0",
+  "description": "http://download.csdn.net/detail/ldpjay/8822587",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengyueran/sfnttool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengyueran/sfnttool/issues"
+  },
+  "homepage": "https://github.com/fengyueran/sfnttool#readme"
+}
